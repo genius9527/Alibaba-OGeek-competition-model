@@ -9,7 +9,7 @@
 ![赛题场景](https://github.com/genius9527/Alibaba-OGeek-competition-model/blob/master/%E8%B5%9B%E9%A2%98%E5%9C%BA%E6%99%AF.png)
 
 数据内容及数据量：
-
+![赛题场景](https://github.com/genius9527/Alibaba-OGeek-competition-model/blob/master/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F.png)
 
 初赛数据量：
 训练数据：200万
